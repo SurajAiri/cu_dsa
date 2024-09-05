@@ -1,0 +1,4 @@
+	1.	Implement insertion and deletion in doubly linked lists.
+	2.	Implement insertion and deletion in circular linked lists.
+	3.	Analyze time complexity of these operations.
+	4.	Understand and apply linked list structures.​

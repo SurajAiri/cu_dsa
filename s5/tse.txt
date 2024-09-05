@@ -1,0 +1,4 @@
+Map-Based Approach (findFreqMap):
+1. Initialize an empty map to store frequencies.
+2. Iterate through each element in the array.
+3. For each element, increment its corresponding value in the map.

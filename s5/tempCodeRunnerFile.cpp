@@ -1,0 +1,1 @@
+cerr << "time" << (double)clock() / (double)CLOCKS_PER_SEC << endl;
